@@ -24,3 +24,6 @@ def hey(what):
     #anything else
     else:
         return 'Whatever.'
+
+
+print "wuuut"
